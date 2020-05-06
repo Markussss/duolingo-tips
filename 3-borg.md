@@ -28,6 +28,10 @@ Jeg har delt opp i de fem borgene, slik at ikke denne siden skal bli så veldig 
   - [свой ~ ens egen](#%d1%81%d0%b2%d0%be%d0%b9--ens-egen)
   - [Mister!](#mister)
 - [Folk 2](#folk-2)
+  - [En student](#en-student)
+  - [5 personer](#5-personer)
+  - [Lære og studere](#l%c3%a6re-og-studere)
+  - [Doktor](#doktor)
 - [Vær og natur](#v%c3%a6r-og-natur)
 - [Sport](#sport)
 - [Adjektiv 1](#adjektiv-1)
@@ -96,7 +100,35 @@ Duolingo går ikke inn på dette, men det kan likevel være nyttig å kunne.
 
 # Folk 2
 
-...
+## En student
+
+Russisk har forskjellige ord for det man på engelsk kaller "student", men som vi på norsk kaller elev og student. Begge disse ordene har både hankjønn- og hunkjønnsform (det kommer altså an på hvem det er som er elev eller student):
+
+Russisk hankjønn | Russisk hunkjønn | Norsk
+-----------------|------------------|--------------------------------------------------------
+Ученик           | Ученица          | Elev
+Студент          | Студентка        | Student (man kan også si "studine", men det er uvanlig)
+
+**Молодец** er et ord du bruker, eller kaller andre, når de har gjort en god jobb. Det betyr noe slikt som "flinkis". Det er litt nedlatende å si det til andre, så det er best å bare si det til venner og/eller underordnede.
+
+## 5 personer
+
+Når du teller folk, bruk человек når det er пять (5) eller flere. Ellers er det best å bruke genitivsformen, людей. Hvis du sier at det er много (mange) eller мало (få) kan du bruke både человек og людей, men det beste er å bare bruke людей.
+
+## Lære og studere
+
+Russisk har flere måter å uttrykke læring. I dette kurset bruker vi учи́ться, учи́ть, og занима́ться. Det første verbet, учи́ться, blir introdusert i dette "egget". Her er litt mer:
+
+Ord                         | Betydning              | Eksempel                              | Norsk
+----------------------------|------------------------|---------------------------------------|-----------------------------------------
+учи́ться                     | å studere              | Днём я учу́сь.                         | Jeg studerer om dagen
+учи́ться в(на) + Preposisjon | å studere et sted      | Де́вочка у́чится в шко́ле, в 3-м кла́ссе. | Jenta går (lærer) på skolen, i 3. klasse
+учи́ть + Akkusativ           | å lære, å lære utenatt | Я учу́ слова́. Я учу́ ру́сский язы́к.      | Jeg lærer ord. Jeg lærer russisk
+учи́ть + Akkusativ + Dativ   | å lære noen noe        | Я учу́ студе́нтов ру́сскому.             | Jeg lærer studentene russisk
+
+## Doktor
+
+Det vanligste ordet for en medisinsk doktor er врач. Det går også an å bruke до́ктор, men det er uformelt. Det er litt som forskjellen mellom lege og doktor på norsk. Men en doktor, med doktorgrad, har ingen andre alternativer enn до́ктор.
 
 # Vær og natur
 
