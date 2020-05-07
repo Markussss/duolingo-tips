@@ -37,6 +37,9 @@ Jeg har delt opp i de fem borgene, slik at ikke denne siden skal bli så veldig 
 - [Folk 1](#folk-1)
 - [Rundt deg](#rundt-deg)
 - [Preposisjoner og steder](#preposisjoner-og-steder)
+  - [Bevegelsesverb](#bevegelsesverb)
+  - [Ordvalg](#ordvalg)
+  - [Her, der, og her.](#her-der-og-her)
 - [Verb i presens 2](#verb-i-presens-2)
 
 # Partitive
@@ -138,7 +141,58 @@ Vi lærer hver av disse en etter en. Det er bare fire stammer med helt uregelret
 
 # Preposisjoner og steder
 
-...
+## Bevegelsesverb
+
+Russisk skiller mellom å gå på føttene eller å kjøre i bil (noe ikke engelsk gjør i like stor grad - "to go" kan på engelsk bli brukt om nesten alle måter å komme seg rundt på), men . Hvis du ikke beveger deg innenfor byen, bruk et "kjøretøy-verb", **ехать** (enveis bevegelse) eller **ездить** (gjentakende eller tur-retur). Vi kommer tilbake til dette i [bevegelsesverb i fjerde-borg](4-borg.md#Bevegelsesverb).
+
+##
+
+Når du bruker **в** og **на** så bruker du den [preposisjonelle formen (borg 1)](1-borg.md#preposisjonell-form) for lokasjon og [akkusativ for retning (borg 2)](#akkusativet-det-direkte-objekt).
+
+Lite eksempel:
+
+Russisk          | Norsk                              | "London" er i
+-----------------|------------------------------------|--------------------
+Я живу́ в Ло́ндоне | Jeg bor i London                   | Preposisjonell form
+Я е́ду в Ло́ндон   | Jeg drar (med kjøretøy) til London | Akkusativ form
+
+Her er en liten tabell for formene du kommer til å trenge for steder (ingen levende ting, så akkusativet for **hankjønn** bruker bare nominativsformen (det vil si: ingen endring)).
+
+Nominativ   | Akkusativ | Preposisjonell
+------------|-----------|----------------
+-а/-я       | -у/-ю     | -е
+-/-о/-е     | -/-о/-е   | -е
+-ь hunkjønn | -ь        | -и
+-ия         | -ию       | -ии
+-ие         | -ие       | -ии
+
+**Eksempler**:
+
+Nominativ | Norsk   | Akkusativ | Preposisjonell
+----------|---------|-----------|---------------
+Америка   | Amerika | в Америку | в Америке
+Стол      | Bord    | на стол   | на столе
+Дверь     | Dør     | на дверь  | на двери
+Англия    | England | в Англию  | в Англии
+Здание    | bygning | в здание  | в здании
+
+## Ordvalg
+
+For "utendørs" har russisk "на улице", som bokstvelig talt betyr "på gata".
+
+Preposisjonen **о** (о/об/обо) betyr "om". Reglen for om du skal bruke о, об, eller обо er at du skal bruke о hvis neste ord begynner på en konsonant (legg merke til at е, for eksempel, uttales omtrent som "je", så man bruker bare "о её" hvis det er "om henne"). Hvis neste ord begynner på en vokal, skal du bruke об (об Америке). Hvis neste ord begynner på to konsonanter, skal du bruke обо (обо мне).
+
+USA er США.
+
+I russisk er det vanlig å si at ting "står", "ligger", "er lokalisert", "henger", og lignende. Dette er ganske vanlig på norsk også, men i engelsk er det uvanlig å spesifisere at ting står eller ligger, så det er stort sett greit å bruke "is" og "was" (norsk "er" og "var" når du kommer til slike ord.
+
+## Her, der, og her.
+
+For "her" har vi здесь og тут, og de kan stort sett alltid brukes om hverandre. Тут er litt mer uformelt, og brukes i noen faste uttrykk (тут же - med en gang, тут и там - her og der). Здесьer litt mindre passende for figurative betydninger (når "her" er den nåværende situasjonen istedenfor dette stedet). I dette "egget" har det ingenting å si om du velger å bruke тут eller здесь.
+
+Находиться er et verb som sier noe om hvor noe er, og noen ganger om personer (når fokuset er på nøyaktig stedet de befinner seg). Det kan bli oversatt til "å være", "å lokalisert", og lignende.
+
+Около er omtrent det samme som возле. Det kan også bli brukt litt som "omtrent".
 
 # Verb i presens 2
 
