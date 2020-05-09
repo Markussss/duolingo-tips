@@ -32,6 +32,11 @@ Jeg har delt opp i de fem borgene, slik at ikke denne siden skal bli så veldig 
 - [Infinitv, liker, liker ikke](#infinitv-liker-liker-ikke)
 - [Mat](#mat)
 - [Konjunksjoner](#konjunksjoner)
+  - [а og и](#%d0%b0-og-%d0%b8)
+  - [Men, selv om, på tross av, og lignende](#men-selv-om-p%c3%a5-tross-av-og-lignende)
+    - [Зато](#%d0%97%d0%b0%d1%82%d0%be)
+  - [Хотя](#%d0%a5%d0%be%d1%82%d1%8f)
+  - [Как](#%d0%9a%d0%b0%d0%ba)
 - [Det er …](#det-er)
 - [Spørsmål](#sp%c3%b8rsm%c3%a5l)
 - [Folk 1](#folk-1)
@@ -121,7 +126,69 @@ Vi lærer hver av disse en etter en. Det er bare fire stammer med helt uregelret
 
 # Konjunksjoner
 
-...
+## а og и
+
+På russisk bruker vi и for å vise likhet, og а for å vise kontrast. Her er det vanlige mønstret for а:
+
+Russisk                             | Norsk
+------------------------------------|---------------------------------------------
+Я мальчик, **а** ты девочка.        | Jeg er en gutt **og** du er en jente
+Я работаю в кафе, **а** ты в школе. | Jeg jobber på en kafé, **og** du på en skole
+Я люблю спать, **а** ты нет.        | Jeg liker å sove, **og** det gjør ikke du
+**А** ты?                           | **Og** du?
+
+## Men, selv om, på tross av, og lignende
+
+### Зато
+
+En konjunksjon for å "kompansere" for noe som er dumt med noe som er bra:
+
+Russisk                                              | Norsk
+-----------------------------------------------------|--------------------------------------------------------
+У нас нет молока, **зато** есть хлеб                 | Vi har ikke melk, **men** vi har brød
+Мальчик ещё не умеет писать, **зато** хорошо читает. | Gutten kan ikke skrive, **men** han er flink til å lese
+
+Formen er "[noe negativt], зато [noe positivt]", og зато sier på en måte at det første er negativt og at det andre er positivt, uansett hva man *faktisk* sier eller skriver.
+
+Her er to setninger hvor vi bare har snudd på hva som er før og etter зато, for å gjøre det litt tydeligere. Den ene av disse setningene er også i bruk i dette "egget".
+
+Russisk                                            | Norsk negativ                   | Norsk positiv             | Betydning (meningen som kanskje ligger bak det man sier)
+---------------------------------------------------|---------------------------------|---------------------------|-------------------------------------------------------------------------------------
+Моя девушка не умеет готовить, зато она много ест. | Kjæresten min kan ikke lage mat | Men hun spiser godt       | Det er bra at kjæresten min kan kose seg med mat, selv om hun ikke kan lage den selv
+Моя девушка много ест, зато не умеет готовить.     | Kjæresten min spiser mye        | Men hun kan ikke lage mat | Det er bra at kjæresten min ikke kan lage mat, for da spiser hun kanskje ikke så mye
+
+## Хотя
+
+Ligner veldig på "selv om". Blir ofte kombinert med и foran [predikativet](https://snl.no/predikativ), og som noen ganger kommer direkte etter хотя:
+
+> Он здесь, хотя **и** не знает ничего.
+
+Som er det samme som:
+
+> Он здесь, хотя ничего **и** не знает.
+
+Som betyr:
+
+> Han er her, selv om han ikke vet noe.
+
+## Как
+
+Denne konjunksjonen har en litt interessant bruk, den sier fra om at noen oppfatter eller observerer at noen andre gjør en handling. Denne bruken ligner på hvordan man kan bruke "[at](https://naob.no/ordbok/at_3)" i norsk, selv om det ikke er en helt nøyaktig oversettelse:
+
+Russisk                              | Norsk
+-------------------------------------|---------------------------------
+Я вижу, **как** она танцует          | Jeg ser **at** hun danser
+Они слушают, **как** музыкант играет | De ser **at** musikanten spiller
+
+--------------------
+
+For konkunksjonen а, er det også et "narrativt" mønster. Det er stort satt utelatt fra russisk-treet på Duolingo, men det er i bruk i russisk dagligtale. Du behøver ikke å kunne eller forstå det for å komme deg videre, men det kan være nyttig å ha hørt om det. Det er ikke så vanskelig å forstå:
+
+Russisk                                                | Norsk
+-------------------------------------------------------|---------------------------------------------------------
+На столе чашка, а в чашке чай                          | Det er en kopp på bordet, og i koppen er det te
+Он здесь, а это значит – воды нет                      | Han er her, og det betyr at det ikke er noe vann
+Такси - это машина, а машины не всегда хорошо работают | En taxi er en bil, og biler fungerer ikke alltid så godt
 
 # Det er …
 
