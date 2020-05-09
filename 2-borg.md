@@ -43,6 +43,7 @@
 - [Det er …](#det-er)
 - [Spørsmål](#sp%c3%b8rsm%c3%a5l)
 - [Folk 1](#folk-1)
+  - [Vokabular](#vokabular)
 - [Rundt deg](#rundt-deg)
 - [Preposisjoner og steder](#preposisjoner-og-steder)
   - [Bevegelsesverb](#bevegelsesverb)
@@ -203,7 +204,13 @@ Russisk                                                | Norsk
 
 # Folk 1
 
-...
+## Vokabular
+
+- Директор - Direktør. Hvis det er snakk om skole er det rektor (engelsk: principal).
+- Ученик - Elev. Noen ganger kan det være "følger" eller "disippel", men da in en religiøs eller spirituell kontekst.
+- Коллега - Kollega. Det første ordet ditt på russisk som har felles kjønn. Det betyr at kjønnet på ordet (og dermed bøyningen) avhenger av hvem du refererer til.
+  - Мой коллега - Min (mannlige) kollega
+  - Моя коллега - Min (kvinnelige) kollega
 
 # Rundt deg
 
