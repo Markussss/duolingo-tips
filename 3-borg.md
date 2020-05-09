@@ -1,26 +1,31 @@
-# Duolingo tips oversatt til norsk
+# Tredje borg
 
-Jeg tar utgangspunkt i tipsene som står på https://duome.eu/tips/en/ru, og som er samlet fra duolingo. Fjerner det som ikke passer, og supplerer der jeg synes at det gir mening.
+# Tips
+
+- «У substantiv» gjør at substantivet alltid skal stå i genitiv
+- Hvis du skal bruke её eller его etter en preposisjon (в, у, на, osv.), skal det være неё og него.
 
 # Ressurser
 
+- https://duome.eu/tips/en/ru
 - https://en.wikipedia.org/wiki/Russian_spelling_rules
 - https://en.openrussian.org/
 
-Jeg har delt opp i de fem borgene, slik at ikke denne siden skal bli så veldig lang.
-
 # Innholdsfortegnelse
 
+- [Forsiden](README.md)
 - [Første borg](1-borg.md)
 - [Andre borg](2-borg.md)
 - [Tredje borg](3-borg.md)
 - [Fjerde borg](4-borg.md)
 - [Femte borg](5-borg.md)
 
-- [Duolingo tips oversatt til norsk](#duolingo-tips-oversatt-til-norsk)
+----------------------------------------
+
+- [Tredje borg](#tredje-borg)
+- [Tips](#tips)
 - [Ressurser](#ressurser)
 - [Innholdsfortegnelse](#innholdsfortegnelse)
-- [Tips](#tips)
 - [Tid og tall](#tid-og-tall)
     - [Å bruke tall med substantiver](#%c3%85-bruke-tall-med-substantiver)
     - [Uttrykk](#uttrykk)
@@ -37,10 +42,6 @@ Jeg har delt opp i de fem borgene, slik at ikke denne siden skal bli så veldig 
 - [Adjektiv 1](#adjektiv-1)
 - [Preteritum og infinitiv](#preteritum-og-infinitiv)
     - [Infinitivsstammen](#infinitivsstammen)
-
-# Tips
-
-- «У substantiv» gjør at substantivet alltid skal stå i genitiv
 
 # Tid og tall
 

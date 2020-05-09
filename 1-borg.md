@@ -1,29 +1,31 @@
-# Duolingo tips oversatt til norsk
+# Første borg
 
-Jeg tar utgangspunkt i tipsene som står på https://duome.eu/tips/en/ru, og som er samlet fra duolingo. Fjerner det som ikke passer, og supplerer der jeg synes at det gir mening.
+# Tips
+
+- «У substantiv» gjør at substantivet alltid skal stå i genitiv
+- Hvis du skal bruke её eller его etter en preposisjon (в, у, на, osv.), skal det være неё og него.
 
 # Ressurser
 
+- https://duome.eu/tips/en/ru
 - https://en.wikipedia.org/wiki/Russian_spelling_rules
 - https://en.openrussian.org/
 
-Jeg har delt opp i de fem borgene, slik at ikke denne siden skal bli så veldig lang.
-
 # Innholdsfortegnelse
 
-- Andre borger
-  - [Første borg](1-borg.md)
-  - [Andre borg](2-borg.md)
-  - [Tredje borg](3-borg.md)
-  - [Fjerde borg](4-borg.md)
-  - [Femte borg](5-borg.md)
+- [Forsiden](README.md)
+- [Første borg](1-borg.md)
+- [Andre borg](2-borg.md)
+- [Tredje borg](3-borg.md)
+- [Fjerde borg](4-borg.md)
+- [Femte borg](5-borg.md)
 
-----
+----------------------------------------
 
-- [Duolingo tips oversatt til norsk](#duolingo-tips-oversatt-til-norsk)
+- [Første borg](#f%c3%b8rste-borg)
+- [Tips](#tips)
 - [Ressurser](#ressurser)
 - [Innholdsfortegnelse](#innholdsfortegnelse)
-- [Tips](#tips)
 - [Alfabet 1](#alfabet-1)
     - [Bokstaver og lyder](#bokstaver-og-lyder)
 - [Basis 1](#basis-1)
@@ -39,10 +41,6 @@ Jeg har delt opp i de fem borgene, slik at ikke denne siden skal bli så veldig 
 - [Dyr 1](#dyr-1)
 - [Genitiv](#genitiv)
 - [Eiendom og kjønn](#eiendom-og-kj%c3%b8nn)
-
-# Tips
-
-- «У substantiv» gjør at substantivet alltid skal stå i genitiv
 
 # Alfabet 1
 

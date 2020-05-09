@@ -3,27 +3,30 @@
 # Tips
 
 - «У substantiv» gjør at substantivet alltid skal stå i genitiv
+- Hvis du skal bruke её eller его etter en preposisjon (в, у, на, osv.), skal det være неё og него.
 
 # Ressurser
 
+- https://duome.eu/tips/en/ru
 - https://en.wikipedia.org/wiki/Russian_spelling_rules
 - https://en.openrussian.org/
 
-Jeg har delt opp i de fem borgene, slik at ikke denne siden skal bli så veldig lang.
-
 # Innholdsfortegnelse
 
+- [Forsiden](README.md)
 - [Første borg](1-borg.md)
 - [Andre borg](2-borg.md)
 - [Tredje borg](3-borg.md)
 - [Fjerde borg](4-borg.md)
 - [Femte borg](5-borg.md)
 
+----------------------------------------
+
 - [Andre borg](#andre-borg)
 - [Tips](#tips)
 - [Ressurser](#ressurser)
 - [Innholdsfortegnelse](#innholdsfortegnelse)
-- [Partitive](#partitive)
+- [Partitiv](#partitiv)
 - [Akkusativet: Det direkte objekt](#akkusativet-det-direkte-objekt)
     - [Akkusativ](#akkusativ)
     - [Form](#form)
@@ -47,7 +50,7 @@ Jeg har delt opp i de fem borgene, slik at ikke denne siden skal bli så veldig 
   - [Her, der, og her.](#her-der-og-her)
 - [Verb i presens 2](#verb-i-presens-2)
 
-# Partitive
+# Partitiv
 
 ...
 
