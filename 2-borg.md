@@ -27,6 +27,8 @@
 - [Ressurser](#ressurser)
 - [Innholdsfortegnelse](#innholdsfortegnelse)
 - [Partitiv](#partitiv)
+  - [Чашка чаю](#%d0%a7%d0%b0%d1%88%d0%ba%d0%b0-%d1%87%d0%b0%d1%8e)
+  - [Стакан](#%d0%a1%d1%82%d0%b0%d0%ba%d0%b0%d0%bd)
 - [Akkusativet: Det direkte objekt](#akkusativet-det-direkte-objekt)
     - [Akkusativ](#akkusativ)
     - [Form](#form)
@@ -34,6 +36,7 @@
     - [Е- og И- konjugasjon](#%d0%95--og-%d0%98--konjugasjon)
 - [Infinitv, liker, liker ikke](#infinitv-liker-liker-ikke)
 - [Mat](#mat)
+- [Introduksjon til adjektiver og skrivemåter](#introduksjon-til-adjektiver-og-skrivem%c3%a5ter)
 - [Konjunksjoner](#konjunksjoner)
   - [а og и](#%d0%b0-og-%d0%b8)
   - [Men, selv om, på tross av, og lignende](#men-selv-om-p%c3%a5-tross-av-og-lignende)
@@ -53,7 +56,36 @@
 
 # Partitiv
 
-...
+Som du nå vet har genitiv *mange* bruksområder i russisk. En av dem er å si noe om en mengde av noe:
+
+Russisk       | Norsk
+--------------|-----------------
+Чашка чая     | En kopp te
+Тарелка риса  | En tallerken ris
+Корзина яблок | En kurv epler
+
+Her står substantivene som det er en mengde av i genitivsformen. Fra tabellen over er det чай, рис, og яблоко som står i genitiv.
+
+Noen substantiver kan forekomme som en mengde. Det går fint å si "en kopp ris", for eksempel, men det gir ikke like god mening å si "en kopp stol" (så lenge man ser bort fra at en stol nok ikke passer oppi en kopp…). Med substantiver som kan forekomme som en mengde kan man også bruke genitivsformet av et ord for å si noe om en uspesifisert mengde, istedenfor akkusativet:
+
+Russisk genitiv          | Norsk
+-------------------------|-----------------------
+Я хочу воды              | Jeg vil ha (litt) vann
+Дайте, пожалуйста, риса. | Kan jeg få litt ris?
+Хочешь сока?             | Vil du ha litt jus?
+
+Legg merke til at denne bruken bare er i bruk i situasjoner hvor det er hypotetiske mengder du snakker om. Det går ikke an å drikke воды her og nå, men du kan si at du vil ha litt воды, eller at du tidligere drakk litt воды.
+
+## Чашка чаю
+
+Чай har en alternativ partitiv form: чаю:
+> Хочешь чашечку чаю? = Lyst på en kopp te?
+
+Det er valgfritt om du vil bruke det. Mange korte hankjønnsord som betegner en substans brukte å ha en slik partitiv form. Men, чаю er nok det eneste ordet hvor denne formen er populær å bruke, og ikke høres gammeldags ut.
+
+## Стакан
+
+Russisk skiller mellom ulike drikkebeholdere. Стакан er et vanlig glass, men det er også vanlig å bruke som måleobjekt for matvarer, på samme måte som kopp på norsk. To kopper sukker - два стакана сахара. Ellers er et øl- eller vinglass бока́л (det ligner på pokal). Et mindre vinglass heter рю́мка.
 
 # Akkusativet: Det direkte objekt
 
@@ -127,6 +159,40 @@ Vi lærer hver av disse en etter en. Det er bare fire stammer med helt uregelret
 # Mat
 
 ...
+
+# Introduksjon til adjektiver og skrivemåter
+
+På russisk bøyes adjektiver etter kjønn, antall og form. Vi har litt av dette i norsk, hvor adjektiver bøyes etter om de står til substantiver i entall eller flertall, og om de står til intetkjønn:
+ - en svart kopp
+ - to svart**e** kopper
+ - en blå kopp
+ - et blå**tt** hus
+
+Til sammen er det 24 mulige kombinasjoner av kjønn, antall og former, men det er bare 12 forskjellige muligheter. Systemet her helt regulært, og har ingen endringer i hvor man legger trykket i ordet. Endelsene på ord har harde og myke varianter, avhengig av ordstammen (for eksempel, ый/ий eller ая/яя).
+
+Her er en tabell over adjektiver i nominativ og genitiv for adjektiver med hard og myk stamme. Adjektivene er ny og blå:
+
+Kjønn      | Norsk       | Nominativ       | Genitiv
+-----------|-------------|-----------------|----------------
+Hunkjønn   | Ny kopp     | Но́в**ая** чашка | Но́в**ой** ча̒шки
+Hunkjønn   | Blå kopp    | Си́н**яя** чашка | Си́н**ей** ча̒шки
+Hankjønn   | Nytt hus    | Но́в**ый** дом   | Но́в**ого** до́ма
+Hankjønn   | Blått hus   | Си́н**ий** дом   | Си́н**его** до́ма
+Intetkjønn | Nytt vindu  | Но́в**ое** окно́  | Но́в**ого** окна
+Intetkjønn | Blått vindu | Си́н**ее** окно́  | Си́н**его** окна
+Flertall   | Nye kopper  | Но́в**ые** ча́шки | Но́в**ых** ча́шек
+Flertall   | Blå kopper  | Си́н**ие** ча́шки | Си́н**их** ча́шек
+
+Legg merke til at hankjønn og intetkjønn bøyes helt likt i alle former utenom nominativ (akkusativ vil være det likt genitiv eller nominativ, avhengig av om det er levende eller ikke). I nominativ har hankjønn også -ой-endelse, men det er bare for adjektiver som har trykk på endelsen, for eksempel больш**ой**.
+
+- Ого og его er historiske stavemåter, г høres ut som в - "но́вого" høres ut som "nåvava".
+- -ая(яя) og -ое (ее) uten trykk høres helt identisk ut i standard russisk: си́няя and си́нее har ingen forskjell i uttale.
+
+Følgende regler er universelle skriveregler i russisk, og vil gi deg alle andre endelser for adjektiver:
+
+- Etter Г, К, Х, Ш, Щ, Ж, og Ч skal du alltid bruke И, og aldri Ы.
+- Etter Г, К, Х, Ш, Щ, Ж, Ч, og Ц skal du bruke  А eller У, aldri я eller ю.
+- Etter Ш, Щ, Ж, Ч, og Ц skal du bruke Е når det ikke er trykk på vokalen, og aldri bruke О.
 
 # Konjunksjoner
 
