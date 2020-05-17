@@ -42,6 +42,19 @@
 - [Adjektiv 1](#adjektiv-1)
 - [Preteritum og infinitiv](#preteritum-og-infinitiv)
     - [Infinitivsstammen](#infinitivsstammen)
+- [Shopping](#shopping)
+  - [Gi meg den!](#gi-meg-den)
+  - [Bekledning](#bekledning)
+- [Dativ og flertall](#dativ-og-flertall)
+- [Prat 1](#prat-1)
+- [Perfektive verb 1](#perfektive-verb-1)
+- [Instrumental form](#instrumental-form)
+- [Kropp, liv og død](#kropp-liv-og-d%c3%b8d)
+- [Genitiv flertall](#genitiv-flertall)
+- [Adjektiv 2](#adjektiv-2)
+- [Predikativer og tilstander (og adverb!)](#predikativer-og-tilstander-og-adverb)
+- [Utdanning](#utdanning)
+- [Land og steder](#land-og-steder)
 
 # Tid og tall
 
@@ -181,3 +194,77 @@ Stort sett fokuserer vi her på fortidsformen av [imperfektive](https://snl.no/i
 - De uttrykker en handling som foregår
 - De uttrykker en handling som ikke har hendt
   - Med eler uten detaljer om nårtid det hendte
+
+# Shopping
+
+## Gi meg den!
+
+Til nå har du antageligvis lagt merke til at russisk ikke har helt det store skillet mellom "denne" og "den". Russisk bruker этот for både "den" og "denne", med mindre du skal påpeke en forskjell mellom "denne her" og "den der".
+
+Men, når du peker ut ting, bruk akkurat det du vil.
+
+Russisk  | Norsk
+---------|--------------
+Вот тут  | Akkurat her
+Вот этот | Den her
+Вон там  | Der borte
+Вон тот  | Den der borte
+
+(Вот kan brukes med begge).
+
+## Bekledning
+
+Russisk |Norsk|Bilde
+-|-|-
+Одежда|Klær|<details><summary>Vis bilde…</summary>![Одежда](https://www.spoofee.com/images/dealofday/original/924114.jpg)</details>
+Обувь|Fottøy|<details><summary>Vis bilde…</summary>![Обувь](http://polotsk-portal.ru/uploads/posts/2016-04/1461680214_1142891.jpg)</details>
+Туфлт|Pensko for kvinner|<details><summary>Vis bilde…</summary>![Туфли](https://apollo-ireland.akamaized.net/v1/files/c4oyxo2ujwg93-UA/image;s=1000x700)</details>
+Ботинок|Pensko for menn|<details><summary>Vis bilde…</summary>![Ботинок](https://cdn.shopify.com/s/files/1/0277/9027/products/Luciano.Dress.Boot2_1100x.jpg)</details>
+Сапог|Støvel|<details><summary>Vis bilde…</summary>![Сапог](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wellies.jpg/220px-Wellies.jpg)</details>
+Пальто
+Куртка
+Рубашка
+
+...
+
+
+# Dativ og flertall
+
+...
+
+# Prat 1
+
+...
+
+# Perfektive verb 1
+
+...
+
+# Instrumental form
+
+...
+
+# Kropp, liv og død
+
+...
+
+# Genitiv flertall
+
+...
+
+# Adjektiv 2
+
+...
+
+# Predikativer og tilstander (og adverb!)
+
+...
+
+# Utdanning
+
+...
+
+# Land og steder
+
+...
+
