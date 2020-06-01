@@ -49,6 +49,7 @@
 - [Prat 1](#prat-1)
 - [Perfektive verb 1](#perfektive-verb-1)
 - [Instrumental form](#instrumental-form)
+  - [Den siste formen](#den-siste-formen)
 - [Kropp, liv og død](#kropp-liv-og-d%c3%b8d)
 - [Genitiv flertall](#genitiv-flertall)
 - [Adjektiv 2](#adjektiv-2)
@@ -241,6 +242,38 @@ Russisk |Norsk|Bilde
 ...
 
 # Instrumental form
+
+## Den siste formen
+
+Den blir brukt for noen helt bestemte meningen, og det er derfor vi har latt være å ta tak i den så langt.
+
+Den brukes alene som et "verktøy" noen bruker for å utføre en handling. På norsk kommer den samme formen med ordet "med", og det endrer ikke på formen på ordet.
+
+Russisk      | Norsk
+-------------|--------------
+Молотк**ом** | Med en hammer
+Ветер**ом**  | Med vinden
+Сил**ой**    | Med makt
+
+Formen brukes når man "blir" noe
+
+Russisk                                         | Norsk
+------------------------------------------------|--------------------------------
+Я стал учител**ем**                             | Jeg har blitt en lærer
+Сегодня я стал американск**им** гражданин**ом** | I dag ble jeg amerikansk borger
+
+Den brukes for å angi tiden hvor en handling hender
+
+Russisk         | Norsk
+----------------|-----------------------
+Я работаю утром | Jeg jobber om morgenen
+
+Formen brukes også med preposisjoner:
+
+- с / со - med (sammen **med** noen). "Я с ней" eller "Мы с ней" er de vanligste måtene å si "Jeg og henne".
+- за / перед  - Bak / foran
+- Над / под - Over / under
+- Между - Mellom
 
 ...
 
