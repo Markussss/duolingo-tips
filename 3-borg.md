@@ -27,17 +27,17 @@
 - [Ressurser](#ressurser)
 - [Innholdsfortegnelse](#innholdsfortegnelse)
 - [Tid og tall](#tid-og-tall)
-    - [Å bruke tall med substantiver](#%c3%85-bruke-tall-med-substantiver)
+    - [Å bruke tall med substantiver](#å-bruke-tall-med-substantiver)
     - [Uttrykk](#uttrykk)
 - [Familie](#familie)
-  - [свой ~ ens egen](#%d1%81%d0%b2%d0%be%d0%b9--ens-egen)
+  - [свой ~ ens egen](#свой--ens-egen)
   - [Mister!](#mister)
 - [Folk 2](#folk-2)
   - [En student](#en-student)
   - [5 personer](#5-personer)
-  - [Lære og studere](#l%c3%a6re-og-studere)
+  - [Lære og studere](#lære-og-studere)
   - [Doktor](#doktor)
-- [Vær og natur](#v%c3%a6r-og-natur)
+- [Vær og natur](#vær-og-natur)
 - [Sport](#sport)
 - [Adjektiv 1](#adjektiv-1)
 - [Preteritum og infinitiv](#preteritum-og-infinitiv)
@@ -50,7 +50,8 @@
 - [Perfektive verb 1](#perfektive-verb-1)
 - [Instrumental form](#instrumental-form)
   - [Den siste formen](#den-siste-formen)
-- [Kropp, liv og død](#kropp-liv-og-d%c3%b8d)
+  - [Мы с тобой](#мы-с-тобой)
+- [Kropp, liv og død](#kropp-liv-og-død)
 - [Genitiv flertall](#genitiv-flertall)
 - [Adjektiv 2](#adjektiv-2)
 - [Predikativer og tilstander (og adverb!)](#predikativer-og-tilstander-og-adverb)
@@ -274,6 +275,17 @@ Formen brukes også med preposisjoner:
 - за / перед  - Bak / foran
 - Над / под - Over / under
 - Между - Mellom
+
+## Мы с тобой
+
+Når du forteller noen om, for eksempel, "meg og deg" eller "min venn og jeg", er det *aller* vanligste å bruke **мы с** + vennen din hvor ordet for vennen din er i instrumental form.
+
+Russisk                          | Norsk
+---------------------------------|----------------------------------------
+Мы с тобой друзья                | Du og jeg er venner
+Мы с мамой вчера купили компютер | Jeg og mamma kjøpte en datamaskin i går
+
+Dette byr på et lite problem når man bare oversetter enkeltsetninger, og ikke har hele konteksten setningen finnes i - du kan ikke (med sikkerhet) si om betydningen av "мы" i setningen er "jeg" eller "vi". Det er skjeldent at dette er til forvirring i realiteten, fordi konteksten vil som regel kunne hjelpe deg til å skjønne om det er "vi" eller "jeg", men det kan være en utfordring når man bare har én setning å gå på.
 
 ...
 
