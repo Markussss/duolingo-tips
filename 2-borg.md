@@ -5,6 +5,13 @@
 - «У substantiv» gjør at substantivet alltid skal stå i genitiv
 - Hvis du skal bruke её eller его etter en preposisjon (в, у, на, osv.), skal det være неё og него.
 
+## Skriveregler
+Følgende regler er universelle skriveregler i russisk, men gjelder bare når valget står mellom den ene eller den andre av bokstavene i setningen (и/ы, а/я, у/ю).
+
+- Etter Г, К, Х, Ш, Щ, Ж, og Ч skal du alltid bruke И, og aldri Ы.
+- Etter Г, К, Х, Ш, Щ, Ж, Ч, og Ц skal du bruke А eller У, aldri я eller ю.
+- Etter Ш, Щ, Ж, Ч, og Ц skal du bruke Е når det ikke er trykk på vokalen, og aldri bruke О.
+
 # Ressurser
 
 - https://duome.eu/tips/en/ru
@@ -24,27 +31,28 @@
 
 - [Andre borg](#andre-borg)
 - [Tips](#tips)
+  - [Skriveregler](#skriveregler)
 - [Ressurser](#ressurser)
 - [Innholdsfortegnelse](#innholdsfortegnelse)
 - [Partitiv](#partitiv)
-  - [Чашка чаю](#%d0%a7%d0%b0%d1%88%d0%ba%d0%b0-%d1%87%d0%b0%d1%8e)
-  - [Стакан](#%d0%a1%d1%82%d0%b0%d0%ba%d0%b0%d0%bd)
+  - [Чашка чаю](#чашка-чаю)
+  - [Стакан](#стакан)
 - [Akkusativet: Det direkte objekt](#akkusativet-det-direkte-objekt)
     - [Akkusativ](#akkusativ)
     - [Form](#form)
 - [Verb i presens 1](#verb-i-presens-1)
-    - [Е- og И- konjugasjon](#%d0%95--og-%d0%98--konjugasjon)
+    - [Е- og И- konjugasjon](#е--og-и--konjugasjon)
 - [Infinitv, liker, liker ikke](#infinitv-liker-liker-ikke)
 - [Mat](#mat)
-- [Introduksjon til adjektiver og skrivemåter](#introduksjon-til-adjektiver-og-skrivem%c3%a5ter)
+- [Introduksjon til adjektiver og skrivemåter](#introduksjon-til-adjektiver-og-skrivemåter)
 - [Konjunksjoner](#konjunksjoner)
-  - [а og и](#%d0%b0-og-%d0%b8)
-  - [Men, selv om, på tross av, og lignende](#men-selv-om-p%c3%a5-tross-av-og-lignende)
-    - [Зато](#%d0%97%d0%b0%d1%82%d0%be)
-  - [Хотя](#%d0%a5%d0%be%d1%82%d1%8f)
-  - [Как](#%d0%9a%d0%b0%d0%ba)
-- [Det er …](#det-er)
-- [Spørsmål](#sp%c3%b8rsm%c3%a5l)
+  - [а og и](#а-og-и)
+  - [Men, selv om, på tross av, og lignende](#men-selv-om-på-tross-av-og-lignende)
+    - [Зато](#зато)
+  - [Хотя](#хотя)
+  - [Как](#как)
+- [Det er …](#det-er-)
+- [Spørsmål](#spørsmål)
 - [Folk 1](#folk-1)
   - [Vokabular](#vokabular)
 - [Rundt deg](#rundt-deg)
@@ -188,11 +196,7 @@ Legg merke til at hankjønn og intetkjønn bøyes helt likt i alle former utenom
 - Ого og его er historiske stavemåter, г høres ut som в - "но́вого" høres ut som "nåvava".
 - -ая(яя) og -ое (ее) uten trykk høres helt identisk ut i standard russisk: си́няя and си́нее har ingen forskjell i uttale.
 
-Følgende regler er universelle skriveregler i russisk, og vil gi deg alle andre endelser for adjektiver:
-
-- Etter Г, К, Х, Ш, Щ, Ж, og Ч skal du alltid bruke И, og aldri Ы.
-- Etter Г, К, Х, Ш, Щ, Ж, Ч, og Ц skal du bruke  А eller У, aldri я eller ю.
-- Etter Ш, Щ, Ж, Ч, og Ц skal du bruke Е når det ikke er trykk på vokalen, og aldri bruke О.
+Se også [skrivereglene](#skriveregler) øverst.
 
 # Konjunksjoner
 

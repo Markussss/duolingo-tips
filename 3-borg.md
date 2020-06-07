@@ -5,6 +5,13 @@
 - «У substantiv» gjør at substantivet alltid skal stå i genitiv
 - Hvis du skal bruke её eller его etter en preposisjon (в, у, на, osv.), skal det være неё og него.
 
+## Skriveregler
+Følgende regler er universelle skriveregler i russisk, men gjelder bare når valget står mellom den ene eller den andre av bokstavene i setningen (и/ы, а/я, у/ю).
+
+- Etter Г, К, Х, Ш, Щ, Ж, og Ч skal du alltid bruke И, og aldri Ы.
+- Etter Г, К, Х, Ш, Щ, Ж, Ч, og Ц skal du bruke А eller У, aldri я eller ю.
+- Etter Ш, Щ, Ж, Ч, og Ц skal du bruke Е når det ikke er trykk på vokalen, og aldri bruke О.
+
 # Ressurser
 
 - https://duome.eu/tips/en/ru
@@ -24,6 +31,7 @@
 
 - [Tredje borg](#tredje-borg)
 - [Tips](#tips)
+  - [Skriveregler](#skriveregler)
 - [Ressurser](#ressurser)
 - [Innholdsfortegnelse](#innholdsfortegnelse)
 - [Tid og tall](#tid-og-tall)
@@ -45,6 +53,7 @@
 - [Shopping](#shopping)
   - [Gi meg den!](#gi-meg-den)
   - [Bekledning](#bekledning)
+  - [En større eller mindre skjorte](#en-større-eller-mindre-skjorte)
 - [Dativ og flertall](#dativ-og-flertall)
 - [Prat 1](#prat-1)
 - [Perfektive verb 1](#perfektive-verb-1)
@@ -156,6 +165,19 @@ Det vanligste ordet for en medisinsk doktor er врач. Det går også an å br
 
 # Adjektiv 1
 
+På russisk bøyes adjektivet etter substantivet det modifiserer. Adjektiv bøyes etter kjønn, antall og form. Heldigvis er systemet helt regelrett, uten unntak, og trykket i ordene endrer seg ikke når man bøyer adjektivet (selv om noen ganger kan bokstaven trykket ligger på endre seg, men trykket ligger fremdeles på samme sted i ordet).
+
+Du kjenner allerede til, eller har vært innom en del adjektiver:
+
+            | Hankjønn                | Intetkjønn         | Hunkjønn
+------------|-------------------------|--------------------|---------
+Nominativ   | -ый(о́й)/-ий             | -ое/-ее            | -ая/-яя
+Akkusativ   | Nominativ eller genitiv | -ое/-ее            | -ую/-юю
+Genitiv     | -ого/-его               | Samme som hankjønn | -ой/-ей
+Preposisjon | -ом/-ем                 | Samme som hankjønn | -ой/-ей
+
+Flertallsending i nominativ er -ые (-ие hvis stavereglene sier det). Se også [skrivereglene](#skriveregler) øverst.
+
 ...
 
 # Preteritum og infinitiv
@@ -216,19 +238,27 @@ Russisk  | Norsk
 
 ## Bekledning
 
-Russisk |Norsk|Bilde
--|-|-
-Одежда|Klær|<details><summary>Vis bilde…</summary>![Одежда](https://www.spoofee.com/images/dealofday/original/924114.jpg)</details>
-Обувь|Fottøy|<details><summary>Vis bilde…</summary>![Обувь](http://polotsk-portal.ru/uploads/posts/2016-04/1461680214_1142891.jpg)</details>
-Туфлт|Pensko for kvinner|<details><summary>Vis bilde…</summary>![Туфли](https://apollo-ireland.akamaized.net/v1/files/c4oyxo2ujwg93-UA/image;s=1000x700)</details>
-Ботинок|Pensko for menn|<details><summary>Vis bilde…</summary>![Ботинок](https://cdn.shopify.com/s/files/1/0277/9027/products/Luciano.Dress.Boot2_1100x.jpg)</details>
-Сапог|Støvel|<details><summary>Vis bilde…</summary>![Сапог](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wellies.jpg/220px-Wellies.jpg)</details>
-Пальто
-Куртка
-Рубашка
+Russisk | Norsk
+--------|-------------------
+Одежда  | Klær
+Обувь   | Fottøy
+Туфли   | Pensko for kvinner
+Ботинок | Herresko
+Сапог   | Støvel
+Пальто  | Frakk
+Куртка  | Jakke
+Рубашка | Skjorte
 
-...
+## En større eller mindre skjorte
 
+Fra [Adjektiv 1](#adjektiv-1) husker du kanskje at больше og меньше er ord for mer/større og færre/mindre. Siden disse ordene fungerer som adverb er det problematisk å bruke dem til substantiver.
+
+Istedenfor kan du bruke ordene побольше og поменьше *etter* substantivet:
+
+Russisk               | Norsk
+----------------------|--------------------------
+Я хочу́ стол поме́ньше  | Jeg vil ha et mindre bord
+Да́йте я́блоко побо́льше | Gi meg et større eple
 
 # Dativ og flertall
 
