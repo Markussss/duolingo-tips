@@ -22,7 +22,7 @@
 
 ----------------------------------------
 
-- [Første borg](#f%c3%b8rste-borg)
+- [Første borg](#første-borg)
 - [Tips](#tips)
 - [Ressurser](#ressurser)
 - [Innholdsfortegnelse](#innholdsfortegnelse)
@@ -40,7 +40,12 @@
     - [Preposisjonelle endelser](#preposisjonelle-endelser)
 - [Dyr 1](#dyr-1)
 - [Genitiv](#genitiv)
-- [Eiendom og kjønn](#eiendom-og-kj%c3%b8nn)
+  - [Genitiv](#genitiv-1)
+  - [Genitiv av negativ](#genitiv-av-negativ)
+  - [Hovedbruksområder](#hovedbruksområder)
+  - [Ubøyelige substantiver](#ubøyelige-substantiver)
+  - [Ingenting](#ingenting)
+- [Eiendom og kjønn](#eiendom-og-kjønn)
 
 # Alfabet 1
 
@@ -168,6 +173,65 @@ Ord      | Preposisjonal | Norsk
 
 # Genitiv
 
-...
+På russisk bruker man "у меня (есть)" for  å si "jeg har". Direkte oversatt er betydningen "ved meg" eller "hos meg". Den som har noe skal stå i *genitiv*. Legg merke til at "меня" er genitivsformen av я.
+
+## Genitiv
+
+Genitiv er en av de mest universelle formene, og brukes til litt av hvert. For å bøye ord i genitiv følger man dette mønsteret:
+
+Ordklasse                        | Norsk           | Nominativ | Genitiv | Hard eller myk stamme
+---------------------------------|-----------------|-----------|---------|----------------------
+Hunkjønn som slutter på -a og -я | mamma           | мама      | мамы    | Hard
+Hunkjønn som slutter på -a og -я | jorden          | земля     | земли   | Myk
+Hankjønn                         | hest (springer) | конь      | коня    | Myk
+Hankjønn                         | jus             | сок       | сока    | Hard
+Intetkjønn                       | melk            | молоко    | молока  | Hard
+Hunkjønn som slutter på -ь       | mus             | мышь      | мыши    | Myk
+
+Legg merke til:
+- Hankjønn og intetkjønn bøyes helt likt i genitiv.
+- Hunkjønn har forskjellige regler for når ordet slutter på а og я, og når det slutter på ь (bløthetstegn).
+
+## Genitiv av negativ
+
+Hvis du bruker "нет" for å si at det ikke er noe, så skal det som ikke er alltid stå i genitiv:
+
+Russisk                | Norsk
+-----------------------|---------------------------
+У меня есть яблоко     | Jeg har et eple
+У меня нет **яблока**  | Jeg har ikke (et) eple
+У меня есть рюкзак     | Jeg har en ryggsegg
+У меня нет **рюкзака** | Jeg har ikke (en) ryggsekk
+
+Her står genitivsformen i **fet skrift**. Du kan også legge merke til at formen ikke endrer seg i norsk her.
+
+## Hovedbruksområder
+
+Noen av de viktigste bruksområdene for genitivsformen er å indikere eiendom og å indikere mengde.
+
+Eksempler:
+
+Russisk         | Norsk
+----------------|-----------------
+яюлоко мам**ы** | mamma sitt eple
+чашка ча**я**   | en kopp (med) te
+много ча**я**   | mye te
+
+Mange preposisjoner krever at ordet etter preposisjonen står i genitiv. Uttrykkene "у меня есть", "у неё есть", osv. bruker bare "меня" og "неё" fordi "у" krever at det neste ordet er genitiv.
+
+## Ubøyelige substantiver
+
+Noen substantiver som er låneord fra andre språk er  ubøyelig. Det betyr at alle formene deres er like. Låneord som er substantiver og som slutter på о eller е (кофе, метро, радио, резюме), og ord som ikke passer inn i de russiske bøyningsmønstrene over.
+
+Så, for eksempel, er følgende navn automatisk umulig å bøye: Маргарет, Мэри, Элли, Дженни, Рэйчел, Натали, Энн, Ким, Тесс, Жасмин.
+
+## Ingenting
+
+Russisk bruker "konsistent negering". Med det menes at i negative setninger så må du bruke negative ord gjennom hele setningen. Ikke "ikke noenting", men "ikke ingenting". Ikke "ikke noensteds", men "ikke ingensteds".
+
+Russisk               | Norsk
+----------------------|---------------------
+У меня **ничего** нет | Jeg har ingenting
+Она **ничего** не ест | Hun spiser ingenting
 
 # Eiendom og kjønn
