@@ -61,7 +61,15 @@ Følgende regler er universelle skriveregler i russisk, men gjelder bare når va
   - [Den siste formen](#den-siste-formen)
   - [Мы с тобой](#мы-с-тобой)
 - [Kropp, liv og død](#kropp-liv-og-død)
+  - [Du har store øyne](#du-har-store-øyne)
+  - [Nyttig å vite](#nyttig-å-vite)
 - [Genitiv flertall](#genitiv-flertall)
+  - [Hvordan lage genitiv flertall](#hvordan-lage-genitiv-flertall)
+    - [Ord som slutter på -а, -я, -о](#ord-som-slutter-på--а--я--о)
+    - [Ord som slutter på hard konsonant](#ord-som-slutter-på-hard-konsonant)
+    - [Ord som slutter på bløte konsonanter](#ord-som-slutter-på-bløte-konsonanter)
+    - [Имя og Время](#имя-og-время)
+  - [Ikke så enkelt](#ikke-så-enkelt)
 - [Adjektiv 2](#adjektiv-2)
 - [Predikativer og tilstander (og adverb!)](#predikativer-og-tilstander-og-adverb)
 - [Utdanning](#utdanning)
@@ -76,10 +84,10 @@ Vi skal fokusere på nominativ, men dette gjelder også når akkusativ er det sa
 Russiske tall er litt merkelige - formen til substantivet avhenger av det siste ordet i tallet:
 
 Siste ord                | Betydning     | Form             | Eksempel
--------------------------|---------------|------------------|---------------------------------------------------------------------
-оди́н (одна́, одно́, одни́ ) | 1             | Nominativ entall | оди́н дом, одна́ ма́ма, два́дцать одно́ окно́, оди́н сто́л
-два (две), три, четы́ре   | 2, 3, 4       | Genitiv entall   | две ко́шки, два стола́, три ма́льчика, три́дцать четы́ре стола́
-Mer enn fire             | 5, 6, 12, 100 | Genitiv flertall | пять ко́шек, пять ма́льчиков, два́дцать пять ко́шек, миллио́н ко́шек
+-------------------------|---------------|------------------|---------------------------------------------------------------
+один (одна, одно, одни ) | 1             | Nominativ entall | один дом, одна мама, двадцать одно окно, один стол
+два (две), три, четыре   | 2, 3, 4       | Genitiv entall   | две кошки, два стола, три мальчика, тридцать четыре стола
+Mer enn fire             | 5, 6, 12, 100 | Genitiv flertall | пять кошек, пять мальчиков, двадцать пять кошек, миллион кошек
 
 Akkurat som på norsk, har russisk egne ord tallene mellom elleve og nitten, så de er i den siste kategorien.
 
@@ -87,7 +95,7 @@ Flertallsgenitiv har litt merkelige mønstre, så det er skilt ut i et eget "egg
 
 ### Uttrykk
 
-- Jeg er 10 (år) = Мне де́сять (лет)
+- Jeg er 10 (år) = Мне десять (лет)
   - Legg merke til at her brukes dativ мне, og tallet i nominativ. Flertallsgenitiv лет er uregelrett
 
 # Familie
@@ -100,18 +108,18 @@ Det er skjeldent at man sier "min mor", "min bestemor", eller lignende på russi
 
 ... Og når man kutter ut "min", blir det mer naturlig å bruke det refleksive eiendomspronomenet свой. Refleksivt betyr at det peker på subjektet i setningen. Vi har også refleksive eiendomspronomen på norsk, men bare i 3. person, med både i entall og flertall (han, hun, det, de). Her er noen eksempler på at vi har det samme på norsk:
 
-Russisk|Norsk
--|-
-Кошка ест из **своей** миски|Katten spiser av skålen **sin**
-Я думаю, он у **своих** родителей|Jeg tror han er hos foreldrene **sine**
-Родители любят **своих** детей|Foreldre er glad i barna **sine**
+Russisk                           | Norsk
+----------------------------------|----------------------------------------
+Кошка ест из **своей** миски      | Katten spiser av skålen **sin**
+Я думаю, он у **своих** родителей | Jeg tror han er hos foreldrene **sine**
+Родители любят **своих** детей    | Foreldre er glad i barna **sine**
 
 Og at selv om det finnes på russisk for 1. og 2. person i både entall og flertall, har vi det ikke på norsk:
 
-Russisk|Norsk
--|-
-Я курю **свою** сигару|Jeg røyker sigaren **min**
-Мы у (**своих**) родителей|Vi er hos foreldrene **våre** (her kan man la være å ta med "своих")
+Russisk                    | Norsk
+---------------------------|---------------------------------------------------------------------
+Я курю **свою** сигару     | Jeg røyker sigaren **min**
+Мы у (**своих**) родителей | Vi er hos foreldrene **våre** (her kan man la være å ta med "своих")
 
 Свой bøyes det samme mønsteret som мой, твой, ваш, наш og этот. Det er en fin tabell over [bøyningen på Openrussian.org](https://en.openrussian.org/ru/%D1%81%D0%B2%D0%BE%D0%B9).
 
@@ -142,18 +150,18 @@ Når du teller folk, bruk человек når det er пять (5) eller flere. E
 
 ## Lære og studere
 
-Russisk har flere måter å uttrykke læring. I dette kurset bruker vi учи́ться, учи́ть, og занима́ться. Det første verbet, учи́ться, blir introdusert i dette "egget". Her er litt mer:
+Russisk har flere måter å uttrykke læring. I dette kurset bruker vi учиться, учить, og заниматься. Det første verbet, учиться, blir introdusert i dette "egget". Her er litt mer:
 
 Ord                         | Betydning              | Eksempel                              | Norsk
 ----------------------------|------------------------|---------------------------------------|-----------------------------------------
-учи́ться                     | å studere              | Днём я учу́сь.                         | Jeg studerer om dagen
-учи́ться в(на) + Preposisjon | å studere et sted      | Де́вочка у́чится в шко́ле, в 3-м кла́ссе. | Jenta går (lærer) på skolen, i 3. klasse
-учи́ть + Akkusativ           | å lære, å lære utenatt | Я учу́ слова́. Я учу́ ру́сский язы́к.      | Jeg lærer ord. Jeg lærer russisk
-учи́ть + Akkusativ + Dativ   | å lære noen noe        | Я учу́ студе́нтов ру́сскому.             | Jeg lærer studentene russisk
+учиться                     | å studere              | Днём я учусь.                         | Jeg studerer om dagen
+учиться в(на) + Preposisjon | å studere et sted      | Девочка учится в школе, в 3-м классе. | Jenta går (lærer) på skolen, i 3. klasse
+учить + Akkusativ           | å lære, å lære utenatt | Я учу слова. Я учу русский язык.      | Jeg lærer ord. Jeg lærer russisk
+учить + Akkusativ + Dativ   | å lære noen noe        | Я учу студентов русскому.             | Jeg lærer studentene russisk
 
 ## Doktor
 
-Det vanligste ordet for en medisinsk doktor er врач. Det går også an å bruke до́ктор, men det er uformelt. Det er litt som forskjellen mellom lege og doktor på norsk. Men en doktor, med doktorgrad, har ingen andre alternativer enn до́ктор.
+Det vanligste ordet for en medisinsk doktor er врач. Det går også an å bruke доктор, men det er uformelt. Det er litt som forskjellen mellom lege og doktor på norsk. Men en doktor, med doktorgrad, har ingen andre alternativer enn доктор.
 
 # Vær og natur
 
@@ -171,7 +179,7 @@ Du kjenner allerede til, eller har vært innom en del adjektiver:
 
             | Hankjønn                | Intetkjønn         | Hunkjønn
 ------------|-------------------------|--------------------|---------
-Nominativ   | -ый(о́й)/-ий             | -ое/-ее            | -ая/-яя
+Nominativ   | -ый(ой)/-ий             | -ое/-ее            | -ая/-яя
 Akkusativ   | Nominativ eller genitiv | -ое/-ее            | -ую/-юю
 Genitiv     | -ого/-его               | Samme som hankjønn | -ой/-ей
 Preposisjon | -ом/-ем                 | Samme som hankjønn | -ой/-ей
@@ -192,27 +200,27 @@ Formene på ordene er mye enklere enn i presens, fordi det er bare fire former i
 Verb        | Hankjønn | Hunkjønn | Intetkjønn | Flertall
 ------------|----------|----------|------------|---------
 **Endelse** | **—**    | **-а**   | **-о**     | **-и**
-быть        | был      | была́     | бы́ло       | бы́ли
-есть        | ел       | е́ла      | е́ло        | е́ли
+быть        | был      | была     | было       | были
+есть        | ел       | ела      | ело        | ели
 
-«идти» og ord som er avledet av dette (for eksempel пойти́, прийти́, найти́, osv) har en litt underlig og uregelmessig stamme i fortid:
+«идти» og ord som er avledet av dette (for eksempel пойти, прийти, найти, osv) har en litt underlig og uregelmessig stamme i fortid:
 
 > han gikk: он **пошёл**
-> hun gikk: она **пошла́**
-> det gikk: оно **пошло́**
-> de gikk: они **пошли́**
+> hun gikk: она **пошла**
+> det gikk: оно **пошло**
+> de gikk: они **пошли**
 
 I hankjønnsformen er det en forenkling for verb med infinitiver som slutter på **-чь**, **-сти**/**-зти**, **-зть**/**-сть**. Noen eksempler:
 
-Norsk|Infinitiv|Preteritum
--|-|-
-Kan|мочь|он мог
-Krype|ползти́|он полз
-Klatre|лезть|он лез
+Norsk  | Infinitiv | Preteritum
+-------|-----------|-----------
+Kan    | мочь      | он мог
+Krype  | ползти    | он полз
+Klatre | лезть     | он лез
 
 Man kutter altså ut Л på slutten her.
 
-Stort sett fokuserer vi her på fortidsformen av [imperfektive](https://snl.no/imperfektiv) verb (en handling som ikke er avsluttet) - bare «уста́ть» (å bli trøtt) og «подожда́ть» (å vente) er perfektive. For deg betyr dette at når 2 eller flere handlinger blir nevnt så hender de alle samtidig og ikke i noen bestemt rekkefølge. Dette er fordi imperfektive verb, som «идти́», «жить» og «говори́ть» ikke har noen spesifikk tidsramme de foregår i.
+Stort sett fokuserer vi her på fortidsformen av [imperfektive](https://snl.no/imperfektiv) verb (en handling som ikke er avsluttet) - bare «устать» (å bli trøtt) og «подождать» (å vente) er perfektive. For deg betyr dette at når 2 eller flere handlinger blir nevnt så hender de alle samtidig og ikke i noen bestemt rekkefølge. Dette er fordi imperfektive verb, som «идти», «жить» og «говорить» ikke har noen spesifikk tidsramme de foregår i.
 
 - De uttrykker gjentakende eller utstrakt handling
 - De uttrykker en handling som foregår
@@ -257,8 +265,8 @@ Istedenfor kan du bruke ordene побольше og поменьше *etter* subs
 
 Russisk               | Norsk
 ----------------------|--------------------------
-Я хочу́ стол поме́ньше  | Jeg vil ha et mindre bord
-Да́йте я́блоко побо́льше | Gi meg et større eple
+Я хочу стол поменьше  | Jeg vil ha et mindre bord
+Дайте яблоко побольше | Gi meg et større eple
 
 # Dativ og flertall
 
@@ -317,15 +325,84 @@ Russisk                          | Norsk
 
 Dette byr på et lite problem når man bare oversetter enkeltsetninger, og ikke har hele konteksten setningen finnes i - du kan ikke (med sikkerhet) si om betydningen av "мы" i setningen er "jeg" eller "vi". Det er skjeldent at dette er til forvirring i realiteten, fordi konteksten vil som regel kunne hjelpe deg til å skjønne om det er "vi" eller "jeg", men det kan være en utfordring når man bare har én setning å gå på.
 
-...
-
 # Kropp, liv og død
 
-...
+## Du har store øyne
+
+Man skal ikke bruke «есть» for å beskrive kropsdelers eksistens eller egenskaper, så lenge det er vanlig og ingen vil bli overrasket over at det er slik.
+
+Russisk              | Norsk
+---------------------|---------------------
+У меня длинный нос   | Jeg har en lang nese
+У тебя большие глаза | Du har store øyne
+
+## Nyttig å vite
+
+De russiske ordene for føtter og armer kan være litt forvirrende. Avnhengig av situasjonen kan «рука» bety både hånd og arm. Det samme gjelder «ног», noen ganger betyr det fot, mens andre ganger betyr det bein. Stort sett kan man skjønne det ut fra kontekst, og ellers må man bare være forvirret.
 
 # Genitiv flertall
 
-...
+## Hvordan lage genitiv flertall
+
+Alle andre former, bortsett fra nominativ og genitiv er likt i flertall, uavhengig av kjønn. Her skal vi se på hvordan man lager flertall i genitiv.
+
+### Ord som slutter på -а, -я, -о
+
+Fjern den siste vokal-lyden. Dette gjelder også ord som slutter på -ия og -ие (de får -ий - altså at я og е erstattes med й). Hvis man får to konsonanter i slutten av et ord etter å ha fjernet den siste vokal-lyden, så settes det inn en ny vokal mellom de to konsonantene. Noen eksempler:
+
+Russisk (nominativ) | Russisk (genitiv flertall) | Norsk
+--------------------|----------------------------|--------
+Мама                | Мам                        | Mamma
+Неделя              | Недель                     | Uke
+Слово               | Слов                       | Ord
+Окно                | Окон                       | Vindu
+Фамилия             | Фамилий                    | Familie
+Мелодия             | Мелодий                    | Melodi
+Кошка               | Кошек                      | Katt
+
+### Ord som slutter på hard konsonant
+
+Ord som slutter på hard konsonant (det vil si, ikke Ж, Ш, Щ, Ч, Й og Ц), får endelsen -ов. De som slutter på Й og Ц (men bare når det ikke er trykk på siste stavelse) får endelsen -ев.
+
+Russisk (nominativ) | Russisk (genitiv flertall) | Norsk
+--------------------|----------------------------|-------
+Стол                | Столов                     | Stol
+Отец                | Отцов                      | Far
+Город               | Городов                    | By
+Месяц               | Месяцев                    | Måned
+Чай                 | Чаёв                       | Te
+Музей               | Музеев                     | Museum
+
+### Ord som slutter på bløte konsonanter
+
+Ord som slutter på bløthetstegn, Ь, eller Ж, Ш, Щ, Ч får endelsen -ей. Dette gjelder også ord som slutter på -е.
+
+Russisk (nominativ) | Russisk (genitiv flertall) | Norsk
+--------------------|----------------------------|------
+Ночь                | Ночей                      | Natt
+Кровать             | Кроватей                   | Seng
+Учитель             | Учителей                   | Lærer
+Нож                 | Ножей                      | Kniv
+Море                | Морей                      | Hav
+
+### Имя og Время
+
+Имя og время blir имён, og времён. Dette er avvik fra reglene over.
+
+## Ikke så enkelt
+
+Vær forsiktig med substantiver der flertall i nominativ er irregulært (eksempel друг, som i flertall er друзья). Her er noen eksempler på slike avvik:
+
+Russisk (nominativ) | Russisk (genitiv flertall) | Norsk
+--------------------|----------------------------|-------
+Друг                | Друзей                     | Venn
+Мать                | Матерей                    | Mor
+Дочь                | Дочерей                    | Datter
+Сын                 | Сыновей                    | Sønn
+Стул                | Стульев                    | Stol
+Брат                | Братьев                    | Bror
+Лист                | Листьев                    | Blad
+Дерево              | Деревьев                   | Tre
 
 # Adjektiv 2
 
